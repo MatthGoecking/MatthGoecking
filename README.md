@@ -21,7 +21,7 @@
 </p>
 
 ### Portfólio
-  - 🧔 | Barbearia Alura | [Source](https://github.com/MatthGoecking/Barbearia-Alura) 
+  - 🧔 | Barbearia Alura | [Source](https://github.com/MatthGoecking/Barbearia-Alura) | [Demo](https://barbearia-alura-ecru.vercel.app)
   - 💰💸 | ByteBank Node.js | [Source](https://github.com/MatthGoecking/ByteBank-Alura)
 
 ### Abstract
