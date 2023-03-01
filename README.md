@@ -23,11 +23,10 @@
 ### Portfólio
   - 🧔 | Barbearia Alura | [Source](https://github.com/MatthGoecking/Barbearia-Alura) | [Demo](https://barbearia-alura-ecru.vercel.app)
   - 💰💸 | ByteBank Node.js | [Source](https://github.com/MatthGoecking/ByteBank-Alura)
+  - 🎮 | PokeApi | [Source](https://github.com/MatthGoecking/PokeApi) | [Demo](https://pokeapi-ten-puce.vercel.app/) 
 
 ### Abstract
 
  - 🌱 Learning more about and studying: **Front-end using Javascript/Typescript and React with Redux**.
  - 💙 Interests: games 👾, technology and crypto.
 
-
-![Snake animation](https://github.com/MatthGoecking/MatthGoecking/blob/output/github-contribution-grid-snake.svg)
